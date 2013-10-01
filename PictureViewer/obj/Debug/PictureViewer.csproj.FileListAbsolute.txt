@@ -1,0 +1,17 @@
+c:\users\scott\documents\visual studio 2013\Projects\PictureViewer\PictureViewer\bin\Debug\PictureViewer.exe.config
+c:\users\scott\documents\visual studio 2013\Projects\PictureViewer\PictureViewer\bin\Debug\PictureViewer.exe
+c:\users\scott\documents\visual studio 2013\Projects\PictureViewer\PictureViewer\bin\Debug\PictureViewer.pdb
+c:\users\scott\documents\visual studio 2013\Projects\PictureViewer\PictureViewer\obj\Debug\PictureViewer.csprojResolveAssemblyReference.cache
+c:\users\scott\documents\visual studio 2013\Projects\PictureViewer\PictureViewer\obj\Debug\PictureViewer.Properties.Resources.resources
+c:\users\scott\documents\visual studio 2013\Projects\PictureViewer\PictureViewer\obj\Debug\PictureViewer.csproj.GenerateResource.Cache
+c:\users\scott\documents\visual studio 2013\Projects\PictureViewer\PictureViewer\obj\Debug\PictureViewer.exe
+c:\users\scott\documents\visual studio 2013\Projects\PictureViewer\PictureViewer\obj\Debug\PictureViewer.pdb
+c:\users\scott\documents\visual studio 2013\Projects\PictureViewer\PictureViewer\obj\Debug\PictureViewer.Form1.resources
+E:\Host\pictureviewer\PictureViewer\bin\Debug\PictureViewer.exe.config
+E:\Host\pictureviewer\PictureViewer\bin\Debug\PictureViewer.exe
+E:\Host\pictureviewer\PictureViewer\bin\Debug\PictureViewer.pdb
+E:\Host\pictureviewer\PictureViewer\obj\Debug\PictureViewer.Form1.resources
+E:\Host\pictureviewer\PictureViewer\obj\Debug\PictureViewer.Properties.Resources.resources
+E:\Host\pictureviewer\PictureViewer\obj\Debug\PictureViewer.csproj.GenerateResource.Cache
+E:\Host\pictureviewer\PictureViewer\obj\Debug\PictureViewer.exe
+E:\Host\pictureviewer\PictureViewer\obj\Debug\PictureViewer.pdb
